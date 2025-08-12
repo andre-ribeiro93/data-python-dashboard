@@ -184,5 +184,5 @@ The dashboard will start at:
 ### 📷 Preview
 
 <div align="center">
-  <img width="80%" src="/assets/preview.png" alt="Dashboard preview">
+  <img width="100%" src="/assets/preview.gif" alt="Dashboard preview">
 </div>
