@@ -91,18 +91,6 @@ O dashboard será iniciado em:
 
 ---
 
-### 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.  
-
----
-
-### 📷 Demonstração
-
-![Visualização do Dashboard](e0fabfec-265f-48e3-aaef-004e28ffb36f.png)
-
----
-
 ## 🇺🇸 About the Project
 
 This is an application developed in **Python** using **Streamlit** to build an interactive salary analysis dashboard for the data field.  
@@ -193,12 +181,8 @@ The dashboard will start at:
 
 ---
 
-### 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.  
-
----
-
 ### 📷 Preview
 
-![Dashboard Preview](e0fabfec-265f-48e3-aaef-004e28ffb36f.png)
+<div align="center">
+  <img width="80%" src="/assets/preview.png" alt="Dashboard preview">
+</div>
